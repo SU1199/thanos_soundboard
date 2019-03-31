@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>I know what its like to loose</item>
+        <item>Frightening,turns the legs to jelly</item>
+        <item>Dread it, run from it, destiny arrives</item>
+        <item>Now its here</item>
+        <item>Do you have any preference?</item>
+        <item>Your optimism is misplaced</item>
+        <item>That was a mistake</item>
+        <item>Two more stones on earth</item>
+        <item>If you consider faliure experience</item>
+        <item>Choose your words more carefully</item>
+        <item>Whats wrong little one></item>
+        <item>Whats your name?</item>
+        <item>Come let me help you</item>
+        <item>Perfectly balanced as all things should be</item>
+        <item>I know you have the reality stone</item>
+        <item>Not even you would surrender something so precious</item>
+        <item>Is that sadness I sense in you daughter?</item>
+        <item>I knew you still cared</item>
+        <item>Reality is often disappointing</item>
+        <item>Reality can be whatever I want</item>
+        <item>Something we need to discuss</item>
+        <item>---------------------------END OF FREE DIALOGUES----------------------------</item>
+        <item>Aaah, the boyfriend</item>
+        <item>You expect too much from him</item>
+        <item>Do it !</item>
+        <item>I thought you might be hungry</item>
+        <item>You told me that too</item>
+        <item>Your planet was on the brink of collapse</item>
+        <item>A small price to pay for salvation</item>
+        <item>Life would cease to exist</item>
+        <item>I am the only one who know that</item>
+        <item>.....With the will to act on it</item>
+        <item>In doing so made you the fiercest woman in the galaxy</item>
+        <item>I am disappointed</item>
+        <item>So I brought her her to talk</item>
+        <item>Where is the soul stone</item>
+        <item>But I never taught you to lie</item>
+        <item>The stone may better be up there</item>
+        <item>I am prepared</item>
+        <item>Tell me what it needs</item>
+        <item>I ignored my destiny once, I cannot do that again</item>
+        <item>Still he accomplished his mission</item>
+        <item>Too many mouths, not enough to go around</item>
+        <item>With the snap of my finger</item>
+        <item>The hardest choices require the strongest wills</item>
+        <item>I finally rest and watch the sun rise</item>
+        <item>You are full of trick wizard</item>
+        <item>Stark....you are not the only one cursed with knowledge</item>
+        <item>All that for a drop of blood</item>
+        <item>Half of humanity will still be alive</item>
+        <item>I hope they remember you</item>
+        <item>No tricks</item>
+        <item>Today I lost more than you can know</item>
+        <item>I understand my child</item>
+        <item>You should have gone for the head</item>
+
+
+
+    </string-array>
+
+    <integer-array name="ids">
+        <item>@raw/like_to_loose</item>
+        <item>@raw/frightning</item>
+        <item>@raw/destiny_arrives</item>
+        <item>@raw/its_here</item>
+        <item>@raw/preference</item>
+        <item>@raw/optimism</item>
+        <item>@raw/mistake</item>
+        <item>@raw/bring_them</item>
+        <item>@raw/faliure_experience</item>
+        <item>@raw/words_carefully</item>
+        <item>@raw/whats_wrong</item>
+        <item>@raw/whats_your_name</item>
+        <item>@raw/let_me_help</item>
+        <item>@raw/prefectly_balanced</item>
+        <item>@raw/suffering</item>
+        <item>@raw/surrender</item>
+        <item>@raw/sense_sadness</item>
+        <item>@raw/still_cared</item>
+        <item>@raw/reality_disappointing</item>
+        <item>@raw/whatever_iwant</item>
+        <item>@raw/discuss</item>
+        <item>@raw/empty</item>
+        <item>@raw/boyfriend</item>
+        <item>@raw/expect_too_much</item>
+        <item>@raw/doit</item>
+        <item>@raw/might_be_hungry</item>
+        <item>@raw/told_me_that</item>
+        <item>@raw/brink_of_collapse</item>
+        <item>@raw/price_salvation</item>
+        <item>@raw/finite_universe</item>
+        <item>@raw/knows_that</item>
+        <item>@raw/will_to_act</item>
+        <item>@raw/fiercest_woman</item>
+        <item>@raw/disappointed</item>
+        <item>@raw/to_talk</item>
+        <item>@raw/soul_stone</item>
+        <item>@raw/taught_lie</item>
+        <item>@raw/sisters_sake</item>
+        <item>@raw/prepared</item>
+        <item>@raw/what_it_needs</item>
+        <item>@raw/ignored_destiny</item>
+        <item>@raw/mission</item>
+        <item>@raw/offered_solution</item>
+        <item>@raw/mercy</item>
+        <item>@raw/hardest_choices</item>
+        <item>@raw/rest</item>
+        <item>@raw/full_of_tricks</item>
+        <item>@raw/knowledge_curse</item>
+        <item>@raw/blood_drop</item>
+        <item>@raw/half_humanity</item>
+        <item>@raw/rember_hope</item>
+        <item>@raw/no_tricks</item>
+        <item>@raw/mourn_time</item>
+        <item>@raw/understand</item>
+        <item>@raw/gone_for_head</item>
+    </integer-array>
+
+    <string-array name="provider_paths">
+        <item>like_to_loose.mp3</item>
+        <item>frightning.mp3</item>
+        <item>destiny_arrives.mp3</item>
+        <item>its_here.mp3</item>
+        <item>preference.mp3</item>
+        <item>optimism.mp3</item>
+        <item>mistake.mp3</item>
+        <item>bring_them.mp3</item>
+        <item>faliure_experience.mp3</item>
+        <item>words_carefully.mp3</item>
+        <item>whats_wrong.mp3</item>
+        <item>whats_your_name.mp3</item>
+        <item>let_me_help.mp3</item>
+        <item>prefectly_balanced.mp3</item>
+        <item>suffering.mp3</item>
+        <item>surrender.mp3</item>
+        <item>sense_sadness.mp3</item>
+        <item>still_cared.mp3</item>
+        <item>reality_disappointing.mp3</item>
+        <item>whatever_iwant.mp3</item>
+        <item>discuss.mp3</item>
+        <item>empty.mp3</item>
+        <item>boyfriend.mp3</item>
+        <item>expect_too_much.mp3</item>
+        <item>doit.mp3</item>
+        <item>might_be_hungry.mp3</item>
+        <item>told_me_that.mp3</item>
+        <item>brink_of_collapse.mp3</item>
+        <item>price_salvation.mp3</item>
+        <item>finite_universe.mp3</item>
+        <item>knows_that.mp3</item>
+        <item>will_to_act.mp3</item>
+        <item>fiercest_woman.mp3</item>
+        <item>disappointed.mp3</item>
+        <item>to_talk.mp3</item>
+        <item>soul_stone.mp3</item>
+        <item>taught_lie.mp3</item>
+        <item>sisters_sake.mp3</item>
+        <item>prepared.mp3</item>
+        <item>what_it_needs.mp3</item>
+        <item>ignored_destiny.mp3</item>
+        <item>mission.mp3</item>
+        <item>offered_solution.mp3</item>
+        <item>mercy.mp3</item>
+        <item>hardest_choices.mp3</item>
+        <item>rest.mp3</item>
+        <item>full_of_tricks.mp3</item>
+        <item>knowledge_curse.mp3</item>
+        <item>blood_drop.mp3</item>
+        <item>half_humanity.mp3</item>
+        <item>rember_hope.mp3</item>
+        <item>no_tricks.mp3</item>
+        <item>mourn_time.mp3</item>
+        <item>understand.mp3</item>
+        <item>gone_for_head.mp3</item>
+    </string-array>
+</resources>
